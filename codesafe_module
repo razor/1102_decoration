@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T09:29:59.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PJzFzWCelS-HDeyiiEm4" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T09:31:57.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="nNR8jY3VWqt3itwTVzve" version="13.8.1" type="github">
   <diagram id="TeCT_KHCZ3CpJfAx_78a" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gSWTkmBRTHMlJ-cyW94x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gSWTkmBRTHMlJ-cyW94x-1" target="gSWTkmBRTHMlJ-cyW94x-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gSWTkmBRTHMlJ-cyW94x-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="140" width="300" height="250" as="geometry" />
         </mxCell>
@@ -54,6 +57,18 @@
         </mxCell>
         <mxCell id="gSWTkmBRTHMlJ-cyW94x-21" value="审计引擎1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="650" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gSWTkmBRTHMlJ-cyW94x-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gSWTkmBRTHMlJ-cyW94x-23" target="gSWTkmBRTHMlJ-cyW94x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gSWTkmBRTHMlJ-cyW94x-23" value="&lt;span&gt;SDL安全管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSWTkmBRTHMlJ-cyW94x-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gSWTkmBRTHMlJ-cyW94x-24" target="gSWTkmBRTHMlJ-cyW94x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gSWTkmBRTHMlJ-cyW94x-24" value="办公网用户系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
