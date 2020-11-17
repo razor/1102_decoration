@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T02:35:05.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.9" etag="qrWpackEF3Kny-ATBKtR" type="github"><diagram id="zFD1n4hZupb2nOjddK9r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-17T04:00:30.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UP_HaaJQHm7Q0x-7a4S7" version="13.9.9" type="github">
+  <diagram id="zFD1n4hZupb2nOjddK9r" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="SkA0O4NccQ0ZotjxZ34b-2" target="SkA0O4NccQ0ZotjxZ34b-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-3" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-4" value="源代码审计管理平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="160" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-5" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-6" value="目标管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-7" value="缺陷审计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-8" value="模板管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-9" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-10" value="配置管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-11" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-12" value="调度管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-16" value="源代码审计引擎集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkA0O4NccQ0ZotjxZ34b-17" value="审计引擎0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
