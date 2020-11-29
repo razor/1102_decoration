@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T15:45:50.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.4" etag="idEwNjfXPYSxYphqYvv5" type="github"><diagram id="ONMBJDPt_NaG4KfXnIjE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-29T17:13:46.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mWjB00NGHy4N7fkXhg0B" version="13.10.4" type="github">
+  <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
+    <mxGraphModel dx="1422" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-1" value="安全管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-2" value="安全合规" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fontStyle=1;fontSize=17;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="720" y="190" width="120" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-3" value="安全基础设施" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;fontStyle=1;verticalAlign=top;strokeColor=#36393d;fillColor=#eeeeee;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-6" value="业务安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="110" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-7" value="基础设施安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-8" value="数据安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=top;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="110" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-5" value="&amp;nbsp;安全运营" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=left;dashed=1;strokeWidth=3;labelBackgroundColor=none;fillColor=none;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="500" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-4" value="&amp;nbsp;安全产品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=left;dashed=1;strokeColor=#CC0000;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="500" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
