@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T17:24:53.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="W8_3WE_AYaKEbwV-KT4G" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T17:28:06.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="4CG38xbzNhdf6wn8xkHa" version="13.10.4" type="github">
   <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
     <mxGraphModel dx="1422" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="560" y="190" width="110" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-5" value="&amp;nbsp;安全运营" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=left;dashed=1;strokeWidth=3;labelBackgroundColor=none;fillColor=none;strokeColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="500" height="140" as="geometry" />
+          <mxGeometry x="200" y="250" width="500" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-4" value="&amp;nbsp;安全产品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=left;dashed=1;strokeColor=#CC0000;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="430" width="500" height="150" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="730" y="540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-23" value="数据防泄露" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="570" y="350" width="90" height="20" as="geometry" />
+          <mxGeometry x="570" y="380" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;数据加密系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="570" y="450" width="90" height="20" as="geometry" />
@@ -84,6 +84,21 @@
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;数据接口网关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-31" value="数据输出审核" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;风控系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设备指纹系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;生物特征识别&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="510" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;人机识别系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
