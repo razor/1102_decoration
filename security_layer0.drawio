@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T02:39:47.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="cbCtkVZxrIOH_pZZDWQr" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T02:57:16.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="TYgBG8H9qqb9hZ_yRPnp" version="13.9.9" type="github">
   <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
           <mxGeometry x="60" y="190" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-7" value="基础设施安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;sketch=0;" parent="Lal26h7ypOEPW8l7nXnO-63" vertex="1">
-          <mxGeometry x="300" y="190" width="120" height="400" as="geometry" />
+          <mxGeometry x="290" y="190" width="130" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-6" value="业务安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Lal26h7ypOEPW8l7nXnO-63" vertex="1">
           <mxGeometry x="440" y="190" width="200" height="400" as="geometry" />
@@ -198,6 +198,27 @@
         </mxCell>
         <mxCell id="vYC0BqCYndZEo6r7-3hz-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;业务系统弱口令扫描系统&lt;/span&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;strokeColor=#B3B3B3;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
           <mxGeometry x="450" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;业务系统弱口令检查&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="540" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;资产管理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="310" y="260" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-13" value="&lt;span style=&quot;font-size: 14px&quot;&gt;弱点扫描&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="310" y="280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;弱口令管理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="310" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-19" value="&lt;span style=&quot;font-size: 14px&quot;&gt;恶意代码防护&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="630" y="670" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-20" value="&lt;span style=&quot;font-size: 14px&quot;&gt;HIDS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="740" y="670" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;互联网暴露面管理与变更审核&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="300" y="320" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
