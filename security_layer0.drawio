@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T03:28:26.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zS73_rv4Zya39bwuvEPH" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T03:41:13.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="PG2YAQ5NoyAeb0yZy7cK" version="13.9.9" type="github">
   <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="vYC0BqCYndZEo6r7-3hz-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;安全日志关联分析系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
           <mxGeometry x="300" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;密钥与证书管理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" vertex="1" parent="Lal26h7ypOEPW8l7nXnO-65">
+          <mxGeometry x="540" y="360" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
