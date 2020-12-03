@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T04:26:39.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_VbbXGPXmJE15Nq5Tln2" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T04:29:59.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="L77L7pQJuUdC9PeTdA0r" version="13.10.4" type="github">
   <diagram id="ZVblR7bZXOgpbrcd8H5q" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -21,16 +21,16 @@
         <mxCell id="HrGIiTkbGyhNoWLuS9YL-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;安全运营能力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="165" y="290" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-16" value="&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;提升安全运维管理审计能力，配合集团统一&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;VPN&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;4A&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;、终端管理落地实施&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-16" value="&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;提升安全运维管理审计能力，配合集团统一&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;VPN&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;4A&lt;/span&gt;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 14px;&quot;&gt;、终端管理落地实施&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="150" y="350" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-18" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;加强网络安全事件综合监控能力，扩大监控覆盖面，接入集团态势感知体系&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-18" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;加强网络安全事件综合监控能力，扩大监控覆盖面，接入集团态势感知体系&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="150" y="440" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-19" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;持续完善软件安全开发生命周期管理，量化软件安全指标，提升软件安全开发能力&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-19" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;持续完善软件安全开发生命周期管理，量化软件安全指标，提升软件安全开发能力&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="500" y="440" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-20" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;持续满足金融、个人信息保护、等保等相关合规要求&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-20" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;持续满足金融、个人信息保护、等保等相关合规要求&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="150" y="630" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HrGIiTkbGyhNoWLuS9YL-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;安全产品开发&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
@@ -39,28 +39,28 @@
         <mxCell id="HrGIiTkbGyhNoWLuS9YL-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;安全人才培养&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="865" y="290" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-25" value="&lt;font color=&quot;#262626&quot;&gt;完善公司安全运营工具，提升公司安全自动化程度，部分实现安全事件联动处置&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-25" value="&lt;font color=&quot;#262626&quot;&gt;完善公司安全运营工具，提升公司安全自动化程度，部分实现安全事件联动处置&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="500" y="350" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-26" value="&lt;font color=&quot;#262626&quot;&gt;积极参加众测、攻防实战演练，&lt;/font&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38)&quot;&gt;提升安全评估及攻防能力&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-26" value="&lt;font color=&quot;#262626&quot;&gt;积极参加众测、攻防实战演练，&lt;/font&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38)&quot;&gt;提升安全评估及攻防能力&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="850" y="460" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-27" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;提升数据安全防护能力，积极使用集团各项数据安全基础能力，合规安全的挖掘数据价值&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-27" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;提升数据安全防护能力，积极使用集团各项数据安全基础能力，合规安全的挖掘数据价值&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="150" y="540" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-28" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;完善公司安全支撑产品，提供标准化的安全解决方案&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-28" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;完善公司安全支撑产品，提供标准化的安全解决方案&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="500" y="530" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-29" value="积极参加信息安全相关培训、竞赛活动，提升信息安全知识水平" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-29" value="积极参加信息安全相关培训、竞赛活动，提升信息安全知识水平" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="850" y="350" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-30" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;鼓励信息安全人员通过信息安全认证&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38)&quot;&gt;鼓励岗位轮换，拓宽员工知识面&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-30" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;鼓励信息安全人员通过信息安全认证&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38)&quot;&gt;鼓励岗位轮换，拓宽员工知识面&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="850" y="550" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-31" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;积极创新，加强安全产品自研能力，完成公司定制化安全需求&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-31" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;积极创新，加强安全产品自研能力，完成公司定制化安全需求&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="500" y="620" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-34" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;鼓励通过信息安全相关认证，持续提高持证上岗率&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-34" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;鼓励通过信息安全相关认证，持续提高持证上岗率&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="850" y="640" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
