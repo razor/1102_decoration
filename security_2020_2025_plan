@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T04:24:03.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JHqXrQaNODb1WkK0Djja" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T04:26:39.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_VbbXGPXmJE15Nq5Tln2" version="13.10.4" type="github">
   <diagram id="ZVblR7bZXOgpbrcd8H5q" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -51,14 +51,17 @@
         <mxCell id="HrGIiTkbGyhNoWLuS9YL-28" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;完善公司安全支撑产品，提供标准化的安全解决方案&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="500" y="530" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-29" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;积极参加信息安全相关培训、竞赛活动，鼓励&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38)&quot;&gt;通过信息安全认证，&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;提升信息安全知识水平&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-29" value="积极参加信息安全相关培训、竞赛活动，提升信息安全知识水平" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="850" y="350" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HrGIiTkbGyhNoWLuS9YL-30" value="&lt;div&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38)&quot;&gt;鼓励不同安全岗位间轮换，拓宽员工知识面&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-30" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;鼓励信息安全人员通过信息安全认证&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38)&quot;&gt;鼓励岗位轮换，拓宽员工知识面&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="850" y="550" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HrGIiTkbGyhNoWLuS9YL-31" value="&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;积极创新，加强安全产品自研能力，完成公司定制化安全需求&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
           <mxGeometry x="500" y="620" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HrGIiTkbGyhNoWLuS9YL-34" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#262626&quot;&gt;鼓励通过信息安全相关认证，持续提高持证上岗率&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HrGIiTkbGyhNoWLuS9YL-24">
+          <mxGeometry x="850" y="640" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
