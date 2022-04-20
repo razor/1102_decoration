@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T07:24:49.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="N3lRIGpe_wSie1dE3o_j" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T07:25:22.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="FJJ2hHwFkhg606h_yFVQ" version="17.4.5" type="github">
   <diagram id="plsmVzeE8os-rJMNo7gj" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,6 +97,16 @@
         </mxCell>
         <mxCell id="Q3qXGQH1NQk1IIvQyVhR-29" value="集团安全态势感知系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3qXGQH1NQk1IIvQyVhR-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3qXGQH1NQk1IIvQyVhR-1" target="Q3qXGQH1NQk1IIvQyVhR-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="300" />
+              <mxPoint x="394" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
