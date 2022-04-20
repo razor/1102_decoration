@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T07:15:56.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="aok6Y-NR3y4n1NZvNZeK" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T07:24:49.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="N3lRIGpe_wSie1dE3o_j" version="17.4.5" type="github">
   <diagram id="plsmVzeE8os-rJMNo7gj" name="Page-1">
-    <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q3qXGQH1NQk1IIvQyVhR-25" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-10" width="240" height="160" as="geometry" />
+          <mxGeometry x="10" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Q3qXGQH1NQk1IIvQyVhR-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="170" width="330" height="470" as="geometry" />
@@ -75,11 +75,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q3qXGQH1NQk1IIvQyVhR-30" value="机房间专线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q3qXGQH1NQk1IIvQyVhR-23">
+          <mxGeometry x="0.017" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q3qXGQH1NQk1IIvQyVhR-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q3qXGQH1NQk1IIvQyVhR-4" target="Q3qXGQH1NQk1IIvQyVhR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q3qXGQH1NQk1IIvQyVhR-26" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="270" width="225" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3qXGQH1NQk1IIvQyVhR-27" value="互联网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3qXGQH1NQk1IIvQyVhR-28" value="集团内网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3qXGQH1NQk1IIvQyVhR-29" value="集团安全态势感知系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="45" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
