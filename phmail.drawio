@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T02:24:30.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WmxVcvM5MQ1t5a6biLWW" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T02:27:34.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OldBOdRC-RHlfYLIbXkd" version="20.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -30,22 +30,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="480" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="410" />
-              <mxPoint x="410" y="510" />
-              <mxPoint x="470" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="钓鱼邮件是否包含可执行附件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="370" width="210" height="80" as="geometry" />
+          <mxGeometry x="55" y="600" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="205" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-1AuRUiIMmXYwYWWFo2-4" value="查询恶意链接域名IP地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="190" width="120" height="40" as="geometry" />
@@ -63,21 +52,11 @@
             <mxPoint x="540" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-1AuRUiIMmXYwYWWFo2-9" value="查询办公网域名解析日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="390" width="120" height="40" as="geometry" />
+        <mxCell id="w-1AuRUiIMmXYwYWWFo2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-1AuRUiIMmXYwYWWFo2-10" target="w-1AuRUiIMmXYwYWWFo2-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w-1AuRUiIMmXYwYWWFo2-10" value="是否已点击链接&lt;br&gt;填写账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="180" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="w-1AuRUiIMmXYwYWWFo2-11" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-1AuRUiIMmXYwYWWFo2-10">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="690" y="289.9999999999999" as="sourcePoint" />
-            <mxPoint x="720" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="290" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="w-1AuRUiIMmXYwYWWFo2-12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="w-1AuRUiIMmXYwYWWFo2-10">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -87,10 +66,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w-1AuRUiIMmXYwYWWFo2-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;立即修改账号密码及所有使用相同密码的账号。终端断网查杀病毒。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="300" width="150" height="40" as="geometry" />
+          <mxGeometry x="645" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-1AuRUiIMmXYwYWWFo2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-1AuRUiIMmXYwYWWFo2-14" target="w-1AuRUiIMmXYwYWWFo2-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w-1AuRUiIMmXYwYWWFo2-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;查询办公网DNS日志，&lt;br&gt;是否有人解析过此域名&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="330" width="200" height="70" as="geometry" />
+          <mxGeometry x="440" y="350" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w-1AuRUiIMmXYwYWWFo2-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="245" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-1AuRUiIMmXYwYWWFo2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-1AuRUiIMmXYwYWWFo2-20" target="w-1AuRUiIMmXYwYWWFo2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-1AuRUiIMmXYwYWWFo2-20" value="报告集团总指挥中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-1AuRUiIMmXYwYWWFo2-21" value="发送全员钓鱼邮件预警通知，通知部门安全接口人传达到每个员工" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="530" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
