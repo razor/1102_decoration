@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T09:15:02.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="67aBpQWl-qAQcHnhxP1V" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-30T09:18:37.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="O6EPRB_9qpbRlsSRIJoq" version="20.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -7,31 +7,52 @@
         <mxCell id="2" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eu9vTvMyQ3R2iKEb0eSh-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3" target="eu9vTvMyQ3R2iKEb0eSh-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3" value="初始化I2C总线" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="130" width="159" height="80" as="geometry" />
+          <mxGeometry x="240.5" y="120" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="250" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="eu9vTvMyQ3R2iKEb0eSh-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eu9vTvMyQ3R2iKEb0eSh-55" target="eu9vTvMyQ3R2iKEb0eSh-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eu9vTvMyQ3R2iKEb0eSh-55" value="Si4732 POWER_UP&lt;br&gt;设置基准频率&lt;br&gt;设置数字输出格式" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240.5" y="250" width="159" height="80" as="geometry" />
+          <mxGeometry x="240.5" y="230" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eu9vTvMyQ3R2iKEb0eSh-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eu9vTvMyQ3R2iKEb0eSh-56" target="eu9vTvMyQ3R2iKEb0eSh-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eu9vTvMyQ3R2iKEb0eSh-56" value="Si4732 SET_PROPERTY&lt;br&gt;设置FM去加重时间&lt;br&gt;常数为50uS" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225.25" y="380" width="189.5" height="80" as="geometry" />
+          <mxGeometry x="225.25" y="334" width="189.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eu9vTvMyQ3R2iKEb0eSh-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eu9vTvMyQ3R2iKEb0eSh-59" target="eu9vTvMyQ3R2iKEb0eSh-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eu9vTvMyQ3R2iKEb0eSh-59" value="Si4732 FM_TUNE_FREQ&lt;br&gt;设置FM调谐频率" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225.25" y="510" width="189.5" height="80" as="geometry" />
+          <mxGeometry x="225.25" y="440" width="189.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eu9vTvMyQ3R2iKEb0eSh-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eu9vTvMyQ3R2iKEb0eSh-61" target="eu9vTvMyQ3R2iKEb0eSh-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eu9vTvMyQ3R2iKEb0eSh-61" value="Si4732 FM_RSQ_STATUS&lt;br&gt;获取FM接收信号质量" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225.25" y="550" width="189.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eu9vTvMyQ3R2iKEb0eSh-63" value="Si4732 FM_RSQ_STATUS&lt;br&gt;获取FM接收信号质量" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225.25" y="660" width="189.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eu9vTvMyQ3R2iKEb0eSh-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eu9vTvMyQ3R2iKEb0eSh-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="790" as="sourcePoint" />
+            <mxPoint x="320" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="790" />
+              <mxPoint x="160" y="790" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
