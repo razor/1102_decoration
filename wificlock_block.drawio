@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T03:31:22.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2CE1DldAc3OS5ZTbch-p" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T03:33:40.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="inhK6txsdewFr46A0EFh" version="20.5.1" type="github">
   <diagram id="xDvwOLDfmY0kak_MDMXG" name="Page-1">
     <mxGraphModel dx="981" dy="508" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,11 +101,11 @@
             <mxPoint x="489" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bNrwILVf-Zr8JwfPkbtk-25" value="&lt;b&gt;ESP8266单片机&lt;/b&gt;&lt;br&gt;负责连接WiFi&lt;br&gt;解析NTP协议，获取时间&lt;br&gt;维护本地时间&lt;br&gt;驱动显示屏显示当前时间" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="192" y="352" width="136" height="57" as="geometry" />
+        <mxCell id="bNrwILVf-Zr8JwfPkbtk-25" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;ESP8266单片机&lt;/b&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* 负责连接WiFi&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* 解析NTP协议，获取时间&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* 维护本地时间&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* 驱动显示屏显示当前时间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="183" y="349" width="151" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="bNrwILVf-Zr8JwfPkbtk-26" value="&lt;b&gt;SPI LED数码管显示屏&lt;/b&gt;&lt;br&gt;负责显示时间，精确到秒&lt;br&gt;最后一位为C时代表上一次NTP获取时间成功，F代表不成功" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="573" y="352" width="136" height="57" as="geometry" />
+        <mxCell id="bNrwILVf-Zr8JwfPkbtk-26" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;SPI LED数码管显示屏&lt;/b&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* 负责显示时间，精确到秒&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* 最后一位为C时代表上一次NTP获取时间成功，F代表不成功&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="567" y="359" width="150" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
