@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T02:06:35.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dos8BAk2Cwm6HvrjIqp1" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T02:09:07.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gDOC3yJnMiRzsQ_pgHMc" version="21.3.8" type="github">
   <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -98,22 +98,22 @@
           <mxGeometry x="540" y="440" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-38" value="&lt;font style=&quot;font-size: 14px&quot;&gt;数字签名系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
-          <mxGeometry x="540" y="460" width="90" height="20" as="geometry" />
+          <mxGeometry x="540" y="466" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-52" value="&lt;font style=&quot;font-size: 14px&quot;&gt;密码保护插件&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
-          <mxGeometry x="540" y="490" width="90" height="20" as="geometry" />
+          <mxGeometry x="540" y="491" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-59" value="&lt;span style=&quot;font-size: 14px&quot;&gt;通用安全防护组件&lt;/span&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;strokeColor=none;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
-          <mxGeometry x="540" y="520" width="90" height="40" as="geometry" />
+          <mxGeometry x="540" y="512" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lal26h7ypOEPW8l7nXnO-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;人机识别系统&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;strokeColor=none;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
-          <mxGeometry x="450" y="510" width="90" height="20" as="geometry" />
+        <mxCell id="Lal26h7ypOEPW8l7nXnO-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;自动化攻击识别系统&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;strokeColor=none;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
+          <mxGeometry x="450" y="552" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;生物特征识别&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
           <mxGeometry x="450" y="490" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设备指纹系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
-          <mxGeometry x="450" y="460" width="90" height="20" as="geometry" />
+          <mxGeometry x="450" y="465" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lal26h7ypOEPW8l7nXnO-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;数据资产管理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontColor=#E6E6E6;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
           <mxGeometry x="670" y="260" width="90" height="20" as="geometry" />
@@ -202,8 +202,8 @@
         <mxCell id="Lal26h7ypOEPW8l7nXnO-70" value="&lt;font style=&quot;font-size: 14px&quot;&gt;安全紧急通知及响应组织&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontColor=#000000;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
           <mxGeometry x="800" y="370" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vYC0BqCYndZEo6r7-3hz-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;业务系统弱口令扫描系统&lt;/span&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;strokeColor=none;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
-          <mxGeometry x="450" y="530" width="90" height="40" as="geometry" />
+        <mxCell id="vYC0BqCYndZEo6r7-3hz-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;业务弱口令扫描系统&lt;/span&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;dashPattern=1 2;strokeColor=none;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
+          <mxGeometry x="450" y="511" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vYC0BqCYndZEo6r7-3hz-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;业务系统弱口令检查&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=16;" parent="Lal26h7ypOEPW8l7nXnO-65" vertex="1">
           <mxGeometry x="540" y="290" width="90" height="40" as="geometry" />
