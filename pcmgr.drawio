@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T01:46:40.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="c5JXbUboTqMhVRaPkEEA" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T01:47:04.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_Mcx9tD7ClYRdfk3OUP0" version="21.5.0" type="github">
   <diagram name="第 1 页" id="2SWWUSA1ziUpz79r-O6q">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Cyap1fTdS74lrSGoshVs-1" value="终端管理及&lt;br&gt;准入设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cyap1fTdS74lrSGoshVs-1" value="终端管理及&lt;br&gt;准入服务，管理控制台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cyap1fTdS74lrSGoshVs-3" value="终端管理客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
