@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T01:48:55.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-blj5Hqm9NpMnXyVv8o_" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T01:50:06.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="DA-lGjQx594zXwujHP0Z" version="21.5.0" type="github">
   <diagram name="第 1 页" id="2SWWUSA1ziUpz79r-O6q">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,6 +142,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cyap1fTdS74lrSGoshVs-38" value="SPA认证，SDP代理通道" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Cyap1fTdS74lrSGoshVs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cyap1fTdS74lrSGoshVs-39" value="员工认证信息UAP服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cyap1fTdS74lrSGoshVs-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cyap1fTdS74lrSGoshVs-39" target="Cyap1fTdS74lrSGoshVs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="910" as="sourcePoint" />
+            <mxPoint x="680" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cyap1fTdS74lrSGoshVs-41" value="同步信息" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Cyap1fTdS74lrSGoshVs-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
