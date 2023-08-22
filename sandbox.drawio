@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T03:14:21.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jON1TqFyUFs-xjFvaMN1" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-22T03:37:45.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HDh1UCPVgTLZnlw52TKe" version="21.6.8" type="github" pages="4">
   <diagram name="第 1 页" id="SQNfulZLGzp0-eOHp856">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="2HHRJlL6cAHQnU779W6s-10" value="利用漏洞控制H5后端业务前置系统" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2HHRJlL6cAHQnU779W6s-11" value="获取内部接口文档" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2HHRJlL6cAHQnU779W6s-11" value="获取内部源代码管理平台权限" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="257.5" y="540" width="102.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2HHRJlL6cAHQnU779W6s-12" value="通过业务前置系统调用内部代码能力" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
