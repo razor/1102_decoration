@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T02:45:46.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="a6OmjlULGwoXTMIbNl6l" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T02:48:00.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8rIGBwlH9cjVH7oN7WNL" version="21.6.8" type="github">
   <diagram name="第 1 页" id="SQNfulZLGzp0-eOHp856">
-    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,16 +58,16 @@
         <mxCell id="z_Iu8EVNGNHGPjJdmd9z-14" value="全国营业厅POS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="655" y="346" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-15" value="改装恶意智能POS，BAD USB，并报修" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-15" value="改装恶意智能POS，BAD USB，并报修" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="115" y="390" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-16" value="POS运维人员检查机具，并连接USB，终端被控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-16" value="POS运维人员检查机具，并连接USB，终端被控" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-17" value="利用POS运维人员终端，访问机具管理系统，下线删除所有POS机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-17" value="利用POS运维人员终端，访问机具管理系统，下线删除所有POS机" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-18" value="全国营业厅POS下线，无法完成交易" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-18" value="全国营业厅POS下线，无法完成交易" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="632.5" y="390" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z_Iu8EVNGNHGPjJdmd9z-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
