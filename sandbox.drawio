@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T03:56:53.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HcGMkZfmqx4B72-dac06" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-22T04:00:41.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="i2WvTa971NBdwDh1F6-m" version="21.6.8" type="github" pages="4">
   <diagram name="第 1 页" id="SQNfulZLGzp0-eOHp856">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -266,76 +266,76 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-1" value="改装恶意智能POS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="115" y="600" width="90" height="50" as="geometry" />
+          <mxGeometry x="77.5" y="610" width="162.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;准备阶段&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4d8cc7;" vertex="1" parent="1">
           <mxGeometry x="110" y="730" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;突破阶段&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4d8cc7;" vertex="1" parent="1">
-          <mxGeometry x="250" y="730" width="100" height="60" as="geometry" />
+          <mxGeometry x="295" y="730" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;扩大战果&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4d8cc7;" vertex="1" parent="1">
-          <mxGeometry x="385" y="730" width="100" height="60" as="geometry" />
+          <mxGeometry x="475" y="730" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-5" value="搜集供应商信息" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="115" y="480" width="90" height="50" as="geometry" />
+          <mxGeometry x="80" y="490" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-6" value="搜集业务渠道" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="115" y="540" width="90" height="50" as="geometry" />
+          <mxGeometry x="78.75" y="550" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-7" value="准备钓鱼邮件" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="115" y="420" width="90" height="50" as="geometry" />
+          <mxGeometry x="80" y="430" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-8" value="搜集互联网暴露面及组件信息" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="115" y="660" width="90" height="50" as="geometry" />
+          <mxGeometry x="77.5" y="670" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-9" value="利用恶意pos进入内网" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="600" width="90" height="50" as="geometry" />
+          <mxGeometry x="270" y="610" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-10" value="供应链攻击" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="480" width="90" height="50" as="geometry" />
+          <mxGeometry x="270" y="490" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-11" value="利用业务流程，社工产品人员" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="540" width="90" height="50" as="geometry" />
+          <mxGeometry x="270" y="550" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-12" value="对核心人员发送钓鱼邮件，控制终端" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="420" width="90" height="50" as="geometry" />
+          <mxGeometry x="270" y="430" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-13" value="利用互联网系统漏洞、0day获取服务器权限" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="660" width="90" height="50" as="geometry" />
+          <mxGeometry x="270" y="670" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-14" value="通过业务系统拿下数据库权限" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="600" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="610" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-15" value="获取核心系统源码（支付系统、账务系统）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="490" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-16" value="控制核心系统权限（支付系统、账务系统）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="540" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="550" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-17" value="0day拿下4A、堡垒机" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="420" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="430" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-18" value="制作持久化木马" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="660" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="670" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;攻击爆发&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4d8cc7;" vertex="1" parent="1">
-          <mxGeometry x="515" y="730" width="100" height="60" as="geometry" />
+          <mxGeometry x="645" y="730" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-20" value="勒索病毒席卷内网机器" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="520" y="600" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="610" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-21" value="批量调用代发接口" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="490" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-22" value="全国POS机停止服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="520" y="540" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="550" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-23" value="删除账务系统数据库数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="430" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-24" value="大量客户数据泄露" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="520" y="660" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="670" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
