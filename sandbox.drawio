@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T02:48:00.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8rIGBwlH9cjVH7oN7WNL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T02:55:50.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RFkRpEM5-m9MbhlUwjqP" version="21.6.8" type="github" pages="2">
   <diagram name="第 1 页" id="SQNfulZLGzp0-eOHp856">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             <mxPoint x="643.5" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-13" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;攻击队1：控制机具管理系统&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="z_Iu8EVNGNHGPjJdmd9z-13" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;攻击队1：控制机具管理系统，全国营业厅POS停止交易&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="115" y="200" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z_Iu8EVNGNHGPjJdmd9z-14" value="全国营业厅POS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -78,6 +78,80 @@
         </mxCell>
         <mxCell id="z_Iu8EVNGNHGPjJdmd9z-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
           <mxGeometry x="578" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zA70JZ16xZgAyJS_S5sx" name="第 2 页">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-2" value="&lt;b&gt;客服人员终端&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="258" y="288.5" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="288.5" width="18.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-4" value="&lt;b&gt;攻击者&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_domain.svg;" vertex="1" parent="1">
+          <mxGeometry x="99" y="292.25" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-5" value="&lt;b&gt;综合业务管理平台&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/sql_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="288.5" width="38.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Xt1wMb-0FMBKx5QbB1U-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449" y="328.25" as="sourcePoint" />
+            <mxPoint x="229" y="313.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="313" as="sourcePoint" />
+            <mxPoint x="400" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="616.5" y="315.25" as="sourcePoint" />
+            <mxPoint x="696.5" y="315.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-13" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;攻击队2：在线客服投毒，内网调用代发接口，造成资金损失&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="99" y="200" width="531" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-15" value="在线客服聊天社工攻击，投放木马" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-16" value="客服人员终端被控，挖掘综合业务管理平台0day" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="285" y="390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-17" value="综合业务管理平台被控，查找应用程序配置信息，拿到账务数据库账户信息" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="445" y="390" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-18" value="账务数据删除，公司所有业务中断" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="390" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
+          <mxGeometry x="225" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Xt1wMb-0FMBKx5QbB1U-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20;" vertex="1" parent="1">
+          <mxGeometry x="583" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xPOsBhjyQWSxAY60jADi-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="313" as="sourcePoint" />
+            <mxPoint x="540" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xPOsBhjyQWSxAY60jADi-3" value="&lt;b&gt;业务中断&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="710" y="292.25" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xPOsBhjyQWSxAY60jADi-6" value="&lt;b&gt;账务数据库&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="553" y="291.75" width="50" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
