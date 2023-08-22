@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T04:00:41.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="i2WvTa971NBdwDh1F6-m" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-22T04:03:57.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GNKNwq7rvkk9Cl9dfwgd" version="21.6.8" type="github" pages="4">
   <diagram name="第 1 页" id="SQNfulZLGzp0-eOHp856">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -336,6 +336,9 @@
         </mxCell>
         <mxCell id="ys4UO8Yo2p4djDbnPo3G-24" value="大量客户数据泄露" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="670" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVoR5NgYmwj4j0onyIS0-1" value="攻击手法总结：智能POS改装，社工攻击，供应链攻击，0day/Nday，恶意内部接口调用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="78.75" y="360" width="601.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
