@@ -1,17 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T03:16:26.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NnLaP-_5jzneJJ0Kc88A" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-17T03:18:01.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cljDyAfUPCTa_m6Pskzt" version="21.6.8" type="github">
   <diagram name="第 1 页" id="d7j7COSrm1b9zOmBqZao">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RmFcApV2p6ZC9POZzrY4-1" value="支付公司网络与信息安全领导小组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="RmFcApV2p6ZC9POZzrY4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=15;" edge="1" parent="1" source="RmFcApV2p6ZC9POZzrY4-1" target="RmFcApV2p6ZC9POZzrY4-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RmFcApV2p6ZC9POZzrY4-2" value="支付公司网络与信息安全领导小组办公室" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="RmFcApV2p6ZC9POZzrY4-1" value="支付公司网络与信息安全领导小组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="305" y="140" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RmFcApV2p6ZC9POZzrY4-3" value="支付公司SOC" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="RmFcApV2p6ZC9POZzrY4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=15;" edge="1" parent="1" source="RmFcApV2p6ZC9POZzrY4-2" target="RmFcApV2p6ZC9POZzrY4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RmFcApV2p6ZC9POZzrY4-2" value="支付公司网络与信息安全领导小组办公室" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="285" y="260" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RmFcApV2p6ZC9POZzrY4-3" value="支付公司SOC" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="365" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
