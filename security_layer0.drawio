@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T12:41:52.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="K0P26RqZHG_bXp2z3S9j" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-26T12:43:03.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tAe8zfHKXlBbOJ5nVExn" version="20.6.0" type="github" pages="2">
   <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
     <mxGraphModel dx="1178" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -289,34 +289,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E7sBovLeYKrrwKy-spXs-1" value="安全管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="120" height="520" as="geometry" />
+          <mxGeometry x="340" y="306" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="g4tT8G9eMlV21fEucFk5-1" value="组织" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="356" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g4tT8G9eMlV21fEucFk5-2" value="策略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="416" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g4tT8G9eMlV21fEucFk5-3" value="制度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="476" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g4tT8G9eMlV21fEucFk5-4" value="流程" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="490" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="536" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g4tT8G9eMlV21fEucFk5-5" value="基线" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="g4tT8G9eMlV21fEucFk5-6" value="人才培养" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="g4tT8G9eMlV21fEucFk5-7" value="安全意识" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="670" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="g4tT8G9eMlV21fEucFk5-8" value="供应链安全" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=17;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="350" y="730" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="596" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g4tT8G9eMlV21fEucFk5-10" value="集团网络信息安全四级制度体系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;fillColor=#eeeeee;strokeColor=#36393d;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="335" width="140" height="110" as="geometry" />
+          <mxGeometry x="100" y="351" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g4tT8G9eMlV21fEucFk5-11" value="法律法规，人民银行，工信部等监管要求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;fillColor=#eeeeee;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="140" height="110" as="geometry" />
