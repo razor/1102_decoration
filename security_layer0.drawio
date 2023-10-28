@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T15:29:58.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JiMvazR3Eq7ZrN2hXFRu" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-28T15:32:21.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7-gVgvoMOZBOTOXh0xC2" version="22.0.8" type="github" pages="6">
   <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -474,7 +474,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OrcbgHyavF_bvNflklEm-8" value="支付公司内部网络" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;dashPattern=12 12;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="410" height="430" as="geometry" />
+          <mxGeometry x="250" y="120" width="410" height="490" as="geometry" />
         </mxCell>
         <mxCell id="OrcbgHyavF_bvNflklEm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="OrcbgHyavF_bvNflklEm-11" target="OrcbgHyavF_bvNflklEm-3">
           <mxGeometry relative="1" as="geometry" />
@@ -542,6 +542,17 @@
         </mxCell>
         <mxCell id="OrcbgHyavF_bvNflklEm-16" value="业务B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=20;labelPosition=center;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrcbgHyavF_bvNflklEm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrcbgHyavF_bvNflklEm-22" target="OrcbgHyavF_bvNflklEm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrcbgHyavF_bvNflklEm-25" value="数据加水印" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="OrcbgHyavF_bvNflklEm-24">
+          <mxGeometry x="-0.025" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrcbgHyavF_bvNflklEm-22" value="数据溯源水印" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;fontSize=20;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="520" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
