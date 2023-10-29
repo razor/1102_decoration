@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T09:56:39.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_neTPUuP7t6ziKsljn9S" version="22.0.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-29T09:56:48.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="g_PzB6_JuuHqv_Pi6djE" version="22.0.8" type="github" pages="8">
   <diagram id="ONMBJDPt_NaG4KfXnIjE" name="Page-1">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -667,7 +667,7 @@
         <mxCell id="QPPYXpJRo9nSZZTf8UoL-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="QPPYXpJRo9nSZZTf8UoL-1" source="QPPYXpJRo9nSZZTf8UoL-3" target="QPPYXpJRo9nSZZTf8UoL-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QPPYXpJRo9nSZZTf8UoL-3" value="容器A" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="QPPYXpJRo9nSZZTf8UoL-1">
+        <mxCell id="QPPYXpJRo9nSZZTf8UoL-3" value="业务容器A" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="QPPYXpJRo9nSZZTf8UoL-1">
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPPYXpJRo9nSZZTf8UoL-5" value="云原生安全防护平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="QPPYXpJRo9nSZZTf8UoL-1">
