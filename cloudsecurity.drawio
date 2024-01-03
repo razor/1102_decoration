@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T08:00:14.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="imcnzNO_VDR2tu2Dj4lZ" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T08:04:37.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="k-mBJeTmTmBcozKjB-dv" version="22.1.16" type="github">
   <diagram name="Page-1" id="SjuoFifx6ghLgIIXIPQF">
     <mxGraphModel dx="2314" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,10 +106,10 @@
         <mxCell id="OezaXA5_lqatCkhkfjHj-27" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OezaXA5_lqatCkhkfjHj-28" value="漏洞扫描器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OezaXA5_lqatCkhkfjHj-28" value="漏洞扫描器（全网漏洞扫描）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OezaXA5_lqatCkhkfjHj-29" value="资产管理平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OezaXA5_lqatCkhkfjHj-29" value="资产管理平台(全网资产扫描）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OezaXA5_lqatCkhkfjHj-30" value="全流量探针" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -127,7 +127,7 @@
         <mxCell id="OezaXA5_lqatCkhkfjHj-34" value="零信任接入（国密）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="295" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OezaXA5_lqatCkhkfjHj-35" value="安全日志采集留存，防火墙，VPN，零信任，主机命令日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OezaXA5_lqatCkhkfjHj-35" value="安全日志采集留存，防火墙，VPN，主机命令日志，通过syslog与vector发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OezaXA5_lqatCkhkfjHj-36" value="密钥系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
