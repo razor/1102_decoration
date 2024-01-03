@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T06:44:59.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="szDtszOHC9FMoRV5Qsq1" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T07:05:12.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-QiBxKyjjggIy1EfcYea" version="22.1.16" type="github">
   <diagram name="Page-1" id="SjuoFifx6ghLgIIXIPQF">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="OezaXA5_lqatCkhkfjHj-65" value="物理机、虚拟机操作系统中，包含EDR及命令日志采集系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="860" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OezaXA5_lqatCkhkfjHj-66" value="IDS/IPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
