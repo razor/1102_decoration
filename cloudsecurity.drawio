@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T07:42:48.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cCY1ry-VbJZbAqK75in9" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T07:43:32.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="m9QgiS5xwh1j7XYLU0In" version="22.1.16" type="github">
   <diagram name="Page-1" id="SjuoFifx6ghLgIIXIPQF">
     <mxGraphModel dx="2440" dy="1332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -276,6 +276,21 @@
         </mxCell>
         <mxCell id="OezaXA5_lqatCkhkfjHj-73" value="国密SSL卸载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="685" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OezaXA5_lqatCkhkfjHj-76" value="国密SSL VPN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="930" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OezaXA5_lqatCkhkfjHj-77" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OezaXA5_lqatCkhkfjHj-4" target="OezaXA5_lqatCkhkfjHj-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="470" as="sourcePoint" />
+            <mxPoint x="980" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OezaXA5_lqatCkhkfjHj-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OezaXA5_lqatCkhkfjHj-43" target="OezaXA5_lqatCkhkfjHj-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="730" as="sourcePoint" />
+            <mxPoint x="750" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
