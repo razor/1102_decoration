@@ -1,26 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T10:53:05.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9VF5crg3kizZGipwaxPt" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T10:56:07.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dyaflHSynR7cUapB6I2v" version="24.3.1" type="github">
   <diagram name="第 1 页" id="K5K2oIB2UW_f6_v_QB0F">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-1" value="物理机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-1" value="物理机OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-2" value="虚拟机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-2" value="虚拟机OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-3" value="容器宿主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-3" value="容器宿主机OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-4" value="物理机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-7" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-5" value="虚拟机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-8" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-6" value="容器宿主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-9" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-10" value="物理机OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-11" value="虚拟机OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-12" value="容器宿主机OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-13" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-14" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-15" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-16" value="主机安全管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-17" value="容器安全管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZMBSV4Q4uf1ugrP-Fak-16" target="GZMBSV4Q4uf1ugrP-Fak-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="450" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZMBSV4Q4uf1ugrP-Fak-16" target="GZMBSV4Q4uf1ugrP-Fak-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="680" as="sourcePoint" />
+            <mxPoint x="290" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZMBSV4Q4uf1ugrP-Fak-16" target="GZMBSV4Q4uf1ugrP-Fak-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="690" as="sourcePoint" />
+            <mxPoint x="300" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZMBSV4Q4uf1ugrP-Fak-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZMBSV4Q4uf1ugrP-Fak-16" target="GZMBSV4Q4uf1ugrP-Fak-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="690" as="sourcePoint" />
+            <mxPoint x="910" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
