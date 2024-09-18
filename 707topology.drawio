@@ -58,7 +58,7 @@
         <mxCell id="qFeWlYgozA7GguslPpDB-16" value="TV set-top box" style="shape=mxgraph.cisco.modems_and_phones.modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="711" y="220" width="77" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="qFeWlYgozA7GguslPpDB-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qFeWlYgozA7GguslPpDB-2" target="qFeWlYgozA7GguslPpDB-1">
+        <mxCell id="qFeWlYgozA7GguslPpDB-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" edge="1" parent="1" source="qFeWlYgozA7GguslPpDB-2" target="qFeWlYgozA7GguslPpDB-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="570" as="sourcePoint" />
             <mxPoint x="570" y="520" as="targetPoint" />
@@ -83,7 +83,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qFeWlYgozA7GguslPpDB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qFeWlYgozA7GguslPpDB-5" target="qFeWlYgozA7GguslPpDB-7">
+        <mxCell id="qFeWlYgozA7GguslPpDB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;shape=link;" edge="1" parent="1" source="qFeWlYgozA7GguslPpDB-5" target="qFeWlYgozA7GguslPpDB-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="437" y="510" />
@@ -137,6 +137,15 @@
         </mxCell>
         <mxCell id="qFeWlYgozA7GguslPpDB-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qFeWlYgozA7GguslPpDB-38" target="qFeWlYgozA7GguslPpDB-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFeWlYgozA7GguslPpDB-40" value="NAS" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="470" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="qFeWlYgozA7GguslPpDB-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.362;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qFeWlYgozA7GguslPpDB-40" target="qFeWlYgozA7GguslPpDB-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.7" y="425" as="sourcePoint" />
+            <mxPoint x="387.7" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
