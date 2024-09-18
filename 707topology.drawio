@@ -165,10 +165,10 @@
         <mxCell id="qFeWlYgozA7GguslPpDB-47" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;客厅无线路由&lt;/h1&gt;&lt;div&gt;计划更换支持OpenWRT 802.11be的，预计剩余2个口&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="241" y="220" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qFeWlYgozA7GguslPpDB-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;客厅交换机&lt;/h1&gt;&lt;div&gt;计划更换支持SPF*1的5口交换机，或SPF*2的8口交换机，客厅低速设备可以连接到无线路由器&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qFeWlYgozA7GguslPpDB-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;客厅交换机&lt;/h1&gt;&lt;div&gt;计划更换支持SFP*1的5口交换机，或SPF*2的8口交换机，客厅低速设备可以连接到无线路由器&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="230" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qFeWlYgozA7GguslPpDB-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;次卧交换机&lt;/h1&gt;&lt;div&gt;计划更换支持SPF*1的5口交换机&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qFeWlYgozA7GguslPpDB-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;次卧交换机&lt;/h1&gt;&lt;div&gt;计划更换支持SFP*1的5口交换机&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="188" y="810" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qFeWlYgozA7GguslPpDB-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;次卧AP&lt;/h1&gt;&lt;div&gt;计划更换支持802.11be的AP&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
