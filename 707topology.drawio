@@ -157,7 +157,7 @@
           <mxGeometry x="930" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qFeWlYgozA7GguslPpDB-44" value="次卧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="940" y="790" width="60" height="30" as="geometry" />
+          <mxGeometry x="930" y="790" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
