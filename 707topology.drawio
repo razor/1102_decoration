@@ -132,6 +132,12 @@
             <mxPoint x="752.5" y="844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qFeWlYgozA7GguslPpDB-38" value="客厅固话" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.devices.phone_traditional;" vertex="1" parent="1">
+          <mxGeometry x="140" y="95.5" width="48" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qFeWlYgozA7GguslPpDB-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qFeWlYgozA7GguslPpDB-38" target="qFeWlYgozA7GguslPpDB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
