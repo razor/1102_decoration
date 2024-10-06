@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ClOAd1XYvCxr8NZ8p0QV">
-    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2899" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-159" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;安全技术能力&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=23;fontStyle=1;labelPosition=left;verticalLabelPosition=middle;align=right;" vertex="1" parent="1">
+          <mxGeometry y="580" width="1860" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-158" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;安全运营&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=23;fontStyle=1;labelPosition=left;verticalLabelPosition=middle;align=right;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="1790" height="420" as="geometry" />
+        </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;监&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="115" y="180" width="205" height="370" as="geometry" />
         </mxCell>
