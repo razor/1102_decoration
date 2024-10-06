@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ClOAd1XYvCxr8NZ8p0QV">
-    <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,7 +229,7 @@
         <mxCell id="ONSPqAqh77pXOB1-c3SY-82" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;外发控制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="368" y="1254" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-83" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据安全交换&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-83" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;隐私计算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="528" y="1254" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-84" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据交换安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
@@ -342,6 +342,24 @@
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-135" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;响应处置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1600" y="690" width="200" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-138" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;暴露面管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1420" y="804" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-139" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;威胁狩猎&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1420" y="854" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-140" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;数据溯源&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1415" y="1180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-141" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;容灾备份&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1630" y="804" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-142" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;数据备份&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1625" y="1180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-144" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;应用级多活&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1630" y="996" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
