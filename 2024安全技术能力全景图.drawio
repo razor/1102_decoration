@@ -146,76 +146,103 @@
           <mxGeometry x="350" y="690" width="580" height="950" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-51" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;防火墙&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="740" width="150" height="30" as="geometry" />
+          <mxGeometry x="400" y="769" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-52" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;入侵防御&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="740" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="769" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-53" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;防病毒&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="740" width="150" height="30" as="geometry" />
+          <mxGeometry x="720" y="769" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-54" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;VPN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="780" width="150" height="30" as="geometry" />
+          <mxGeometry x="400" y="809" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-55" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;旁路阻断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="780" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="809" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-56" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;SDP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="780" width="150" height="30" as="geometry" />
+          <mxGeometry x="720" y="809" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-57" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;堡垒机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="820" width="150" height="30" as="geometry" />
+          <mxGeometry x="400" y="849" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;DDoS防护&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="820" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="849" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-59" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;商密&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="820" width="150" height="30" as="geometry" />
+          <mxGeometry x="720" y="849" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-60" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;EDR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="860" width="150" height="30" as="geometry" />
+          <mxGeometry x="400" y="889" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-61" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;容器安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="860" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="889" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-62" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;微隔离&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="860" width="150" height="30" as="geometry" />
+          <mxGeometry x="720" y="889" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-64" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;邮件安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="950" width="150" height="30" as="geometry" />
+          <mxGeometry x="400" y="986" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-65" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;终端安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="950" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="986" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-66" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;APP安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="950" width="150" height="30" as="geometry" />
+          <mxGeometry x="720" y="986" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-67" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;API安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="990" width="150" height="30" as="geometry" />
+          <mxGeometry x="400" y="1026" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-68" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;网页防篡改&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="990" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="1026" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-69" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;WAF&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="990" width="150" height="30" as="geometry" />
+          <mxGeometry x="720" y="1026" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-70" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;代码审计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="1030" width="150" height="30" as="geometry" />
+          <mxGeometry x="400" y="1066" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-71" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;RASP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="1030" width="150" height="30" as="geometry" />
+          <mxGeometry x="560" y="1066" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-72" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;商密&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="1030" width="150" height="30" as="geometry" />
+          <mxGeometry x="720" y="1066" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-73" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;邮件安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="1070" width="150" height="30" as="geometry" />
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-76" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据库防火墙&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="405" y="1174" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-74" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;邮件安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="560" y="1070" width="150" height="30" as="geometry" />
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-77" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;数据防泄露&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="565" y="1174" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-75" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;邮件安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="720" y="1070" width="150" height="30" as="geometry" />
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-78" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据加密&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="725" y="1174" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-79" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;API安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="405" y="1214" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-80" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据脱敏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="565" y="1214" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-81" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据水印&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="725" y="1214" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-82" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;外发控制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="405" y="1254" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-83" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据安全交换&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="565" y="1254" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-84" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据交换安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="725" y="1254" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-85" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;个人信息保护&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="405" y="1294" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-86" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据沙箱&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="565" y="1294" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-87" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据销毁&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="725" y="1294" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
