@@ -426,7 +426,7 @@
         <mxCell id="Zy4sHi2AkWRgO1luixwF-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;漏洞扫描&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="145" y="800" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Zy4sHi2AkWRgO1luixwF-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;资产测绘&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Zy4sHi2AkWRgO1luixwF-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;资产测绘&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="860" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wGWMqPW9OdZBMBWdpt7t-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;安全防护&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" vertex="1" parent="1">
@@ -469,34 +469,34 @@
           <mxGeometry x="529" y="919" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;监测预警&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="730" y="690" width="210" height="280" as="geometry" />
+          <mxGeometry x="200" y="980" width="210" height="280" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;全流量监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="760" y="740" width="150" height="30" as="geometry" />
+          <mxGeometry x="230" y="1030" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;威胁感知&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="760" y="810" width="150" height="30" as="geometry" />
+          <mxGeometry x="230" y="1100" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-4" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;入侵检测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="760" y="880" width="150" height="30" as="geometry" />
+          <mxGeometry x="230" y="1170" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;日志监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="760" y="774" width="150" height="30" as="geometry" />
+          <mxGeometry x="230" y="1064" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;内网蜜罐&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="760" y="845" width="150" height="30" as="geometry" />
+          <mxGeometry x="230" y="1135" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;DNS解析监测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="760" y="919" width="150" height="30" as="geometry" />
+          <mxGeometry x="230" y="1209" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;技术对抗&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="950" y="690" width="200" height="280" as="geometry" />
+          <mxGeometry x="420" y="980" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-9" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;暴露面管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="980" y="760" width="150" height="30" as="geometry" />
+          <mxGeometry x="450" y="1050" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-10" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;威胁狩猎&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="980" y="820" width="150" height="30" as="geometry" />
+          <mxGeometry x="450" y="1110" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6PFllsuHJO_OKM92la7-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;2025年扩容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-50" y="740" width="150" height="50" as="geometry" />
