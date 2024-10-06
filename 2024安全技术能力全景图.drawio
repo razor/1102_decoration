@@ -178,7 +178,7 @@
         <mxCell id="ONSPqAqh77pXOB1-c3SY-59" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;终端接入安全&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="689" y="849" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-60" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;EDR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-60" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;EDR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="369" y="889" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-61" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;容器安全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
@@ -259,7 +259,7 @@
         <mxCell id="ONSPqAqh77pXOB1-c3SY-90" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;OTP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="687" y="1390" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-93" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;业务风控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-93" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;业务风控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="367" y="1430" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-94" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;扫码认证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
