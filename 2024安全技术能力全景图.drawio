@@ -653,10 +653,10 @@
           <mxGeometry x="165" y="870" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0KaVl9q0MMQqqwjhwuiB-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;2025年扩容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="775" width="150" height="50" as="geometry" />
+          <mxGeometry x="-20" y="775" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0KaVl9q0MMQqqwjhwuiB-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;2025年新建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="845" width="150" height="50" as="geometry" />
+          <mxGeometry x="-20" y="845" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
