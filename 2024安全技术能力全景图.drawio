@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="5">
   <diagram name="第 1 页" id="ClOAd1XYvCxr8NZ8p0QV">
-    <mxGraphModel dx="3813" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3290" dy="1332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,19 +73,19 @@
         <mxCell id="ONSPqAqh77pXOB1-c3SY-22" value="封堵处置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1340" y="335" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-23" value="攻防演练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-23" value="攻防演练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1340" y="384.5" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-24" value="应急演练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-24" value="应急演练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1340" y="435" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-25" value="安全竞赛" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-25" value="安全竞赛" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1340" y="490" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-26" value="攻击溯源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-26" value="攻击溯源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1590" y="235" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-27" value="溯源反制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-27" value="溯源反制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1590" y="300" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-28" value="漏洞挖掘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="ONSPqAqh77pXOB1-c3SY-29" value="暗访钓鱼" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1590" y="435" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-30" value="安全运营平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-30" value="安全运营平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="115" y="590" width="1685" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-31" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分析识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" parent="1" vertex="1">
@@ -394,7 +394,7 @@
         <mxCell id="ONSPqAqh77pXOB1-c3SY-154" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;符合性管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="775" y="480" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-155" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;考核管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="ONSPqAqh77pXOB1-c3SY-155" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;考核管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="930" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-156" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;检测认证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
