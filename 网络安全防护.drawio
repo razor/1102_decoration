@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;网络攻击及数据安全不合规事件监控&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;verticalAlign=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2924.3" y="-1147.25" width="1060" height="1110" as="geometry" />
+        </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NnDqqMTRhE_hOVfQ4GXK-1" target="NnDqqMTRhE_hOVfQ4GXK-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -109,7 +112,7 @@
           <mxGeometry x="1330" y="-410" width="131.3" height="170.6" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-47" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Web应用防火墙，对进入流量中的HTTP业务进行攻击识别与阻断&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;spacingLeft=40;spacing=2;spacingBottom=19;spacingRight=37;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="-89.29999999999995" width="345" height="230" as="geometry" />
+          <mxGeometry x="2460" y="-99.69999999999996" width="345" height="230" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;业务服务集群&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="1660" y="-70" width="131.3" height="170.6" as="geometry" />
@@ -119,6 +122,36 @@
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-50" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Web应用防火墙，对进入流量中的HTTP业务进行攻击识别与阻断&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;spacingLeft=40;spacing=2;spacingBottom=19;spacingRight=37;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="986" y="-89.29999999999995" width="345" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;流量镜像&lt;/font&gt;&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="3080" y="-670" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-52" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;全流量威胁检测&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="-1029.25" width="184.6" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-53" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;IDS&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="-709.25" width="184.6" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-54" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;数据安全探针&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="3490" y="-409.25" width="184.6" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=40;exitX=-0.022;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NnDqqMTRhE_hOVfQ4GXK-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3030" y="-584.1005263157896" as="sourcePoint" />
+            <mxPoint x="2660" y="-665.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=40;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="NnDqqMTRhE_hOVfQ4GXK-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3000" y="-251.35052631578958" as="sourcePoint" />
+            <mxPoint x="2630" y="-333.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=40;exitX=0.143;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NnDqqMTRhE_hOVfQ4GXK-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3270" y="-110" as="sourcePoint" />
+            <mxPoint x="2820" y="68.86000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
