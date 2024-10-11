@@ -163,9 +163,6 @@
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-68" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;零信任&lt;/b&gt;&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
           <mxGeometry x="619.9999999999998" y="439.99999999999994" width="184.6" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-71" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="50" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;外网&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-890" width="80" height="50" as="geometry" />
         </mxCell>
@@ -352,33 +349,93 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ADagYI2yue_eTwdk1EB" name="办公网安全">
-    <mxGraphModel dx="3298" dy="3364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="4087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7d59s7cG49CBHBp2pAHz-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;办公区&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;dashed=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="963" y="-540" width="507" height="310" as="geometry" />
+        <mxCell id="7d59s7cG49CBHBp2pAHz-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;办公区&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;dashed=1;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-440" width="507" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="uDD_P7To4icJeQUXygJN-1" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;集团办公网&lt;/b&gt;&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-1030" width="224.6" height="141.5" as="geometry" />
+        <mxCell id="uDD_P7To4icJeQUXygJN-1" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;集团办公网&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="1428.4" y="-1110" width="224.6" height="141.5" as="geometry" />
         </mxCell>
-        <mxCell id="uDD_P7To4icJeQUXygJN-2" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;互联网专线&lt;/b&gt;&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="-1029.25" width="224.6" height="141.5" as="geometry" />
+        <mxCell id="uDD_P7To4icJeQUXygJN-2" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;互联网专线&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="-1110" width="224.6" height="141.5" as="geometry" />
         </mxCell>
         <mxCell id="r7f79mshqJPqMKz3GmBF-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;边界防火墙&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Azure_Firewall_Manager.svg;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="-720" width="213.33" height="182.86" as="geometry" />
+          <mxGeometry x="1588.93" y="-740" width="191.07" height="163.78" as="geometry" />
         </mxCell>
         <mxCell id="r7f79mshqJPqMKz3GmBF-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;办公终端&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-440" width="116" height="86.5" as="geometry" />
+          <mxGeometry x="1237" y="-342.86" width="116" height="86.5" as="geometry" />
         </mxCell>
         <mxCell id="7d59s7cG49CBHBp2pAHz-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;办公终端&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-440" width="116" height="86.5" as="geometry" />
+          <mxGeometry x="1397" y="-342.86" width="116" height="86.5" as="geometry" />
         </mxCell>
         <mxCell id="7d59s7cG49CBHBp2pAHz-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;办公终端&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-430" width="116" height="86.5" as="geometry" />
+          <mxGeometry x="1537" y="-332.86" width="116" height="86.5" as="geometry" />
         </mxCell>
-        <mxCell id="7d59s7cG49CBHBp2pAHz-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;旁路阻断设备&lt;/font&gt;&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="2080" y="-720" width="160" height="160" as="geometry" />
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-1" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;办公应用区&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;dashed=1;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="-440" width="507" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-2" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;在线办公&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1860" y="-370" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-3" value="HR" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-370" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;办公区&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;dashed=1;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-910" width="220" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-5" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;终端准入&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-854.7" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-6" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;桌面管理&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-680" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-7" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;数据防泄露&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-510" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-9" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;日志采集&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="998.7" y="-351.96000000000004" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="kcsMXn-RpwEp6MwvDPyS-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="-750" as="sourcePoint" />
+            <mxPoint x="1540" y="-910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcsMXn-RpwEp6MwvDPyS-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1870" y="-860" width="520" height="363.57" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-13" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;基于镜像流量的检测与防护&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;dashed=1;verticalAlign=bottom;fillColor=none;" vertex="1" parent="kcsMXn-RpwEp6MwvDPyS-2">
+          <mxGeometry width="520" height="363.57" as="geometry" />
+        </mxCell>
+        <mxCell id="7d59s7cG49CBHBp2pAHz-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;旁路阻断设备&lt;/font&gt;&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_128x128.png" vertex="1" parent="kcsMXn-RpwEp6MwvDPyS-2">
+          <mxGeometry x="90" y="83.57000000000005" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-8" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;全流量威胁检测&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="kcsMXn-RpwEp6MwvDPyS-2">
+          <mxGeometry x="330" y="19.999999999999886" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-11" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;文件检测沙箱&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="kcsMXn-RpwEp6MwvDPyS-2">
+          <mxGeometry x="330" y="178.57000000000005" width="82.6" height="104.7" as="geometry" />
+        </mxCell>
+        <mxCell id="kcsMXn-RpwEp6MwvDPyS-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="-740" as="sourcePoint" />
+            <mxPoint x="1810" y="-910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcsMXn-RpwEp6MwvDPyS-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="-460" as="sourcePoint" />
+            <mxPoint x="1550" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcsMXn-RpwEp6MwvDPyS-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1820" y="-460" as="sourcePoint" />
+            <mxPoint x="1820" y="-620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
