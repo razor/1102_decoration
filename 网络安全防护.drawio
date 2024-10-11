@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="3298" dy="4464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5185" dy="5030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;网络攻击及数据安全不合规事件监控&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;verticalAlign=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2924.3" y="-1090" width="855.7" height="1052.75" as="geometry" />
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-61" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;网络安全管理系统&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;verticalAlign=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-800" width="360" height="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;基于流量的安全监测手段&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;verticalAlign=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2924.3" y="-1090" width="665.7" height="1052.75" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NnDqqMTRhE_hOVfQ4GXK-1" target="NnDqqMTRhE_hOVfQ4GXK-8">
           <mxGeometry relative="1" as="geometry" />
@@ -49,31 +52,31 @@
           <mxGeometry x="2240" y="-740" width="345" height="230" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-27" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="3801.76" y="120" width="160" height="160" as="geometry" />
+          <mxGeometry x="3100" y="1040" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;接入区服务器&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="-410" width="131.3" height="170.6" as="geometry" />
+          <mxGeometry x="1610" y="-410" width="131.3" height="170.6" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;业务服务集群&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="1376.08" y="-70" width="131.3" height="170.6" as="geometry" />
         </mxCell>
-        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-34" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="4348.97" y="420" width="131.3" height="170.6" as="geometry" />
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;数据库安全审计代理&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="339.4" width="131.3" height="170.6" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-35" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="4618.97" y="420" width="131.3" height="170.6" as="geometry" />
+          <mxGeometry x="3765.4500000000003" y="1080" width="131.3" height="170.6" as="geometry" />
         </mxCell>
-        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;互联网蜜罐（待建设）&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1097" y="-377.3" width="123" height="106" as="geometry" />
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;互联网蜜罐（待建设），威胁狩猎能力&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-410" width="150.85" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;内网蜜罐&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2290" y="-27.300000000000075" width="123" height="106" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3861.3" y="620" width="123" height="106" as="geometry" />
+          <mxGeometry x="3007.78" y="1280" width="123" height="106" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="4495.969999999999" y="620" width="123" height="106" as="geometry" />
+          <mxGeometry x="3642.4499999999994" y="1280" width="123" height="106" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;集团业务&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/School_Building.svg;" vertex="1" parent="1">
           <mxGeometry x="2339.8" y="-1340" width="165" height="166.79999999999998" as="geometry" />
@@ -103,37 +106,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-44" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="670" width="306.76" height="227" as="geometry" />
+          <mxGeometry x="1720" y="340" width="306.76" height="227" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-45" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Web应用防火墙，对进入流量中的HTTP业务进行攻击识别与阻断&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;spacingLeft=40;spacing=2;spacingBottom=19;spacingRight=37;" vertex="1" parent="1">
           <mxGeometry x="2249.8" y="-439.7" width="345" height="230" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;接入区服务器&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-410" width="131.3" height="170.6" as="geometry" />
+          <mxGeometry x="1350" y="-410" width="131.3" height="170.6" as="geometry" />
         </mxCell>
-        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-47" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Web应用防火墙，对进入流量中的HTTP业务进行攻击识别与阻断&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;spacingLeft=40;spacing=2;spacingBottom=19;spacingRight=37;" vertex="1" parent="1">
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-47" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;内网蜜罐，对内网失陷情况进行监测&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;spacingLeft=40;spacing=2;spacingBottom=19;spacingRight=37;" vertex="1" parent="1">
           <mxGeometry x="2460" y="-99.69999999999996" width="345" height="230" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;业务服务集群&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="-70" width="131.3" height="170.6" as="geometry" />
+          <mxGeometry x="1684.6" y="-70" width="131.3" height="170.6" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;业务服务集群&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="1970" y="-70" width="131.3" height="170.6" as="geometry" />
         </mxCell>
-        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-50" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Web应用防火墙，对进入流量中的HTTP业务进行攻击识别与阻断&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;spacingLeft=40;spacing=2;spacingBottom=19;spacingRight=37;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="986" y="-89.29999999999995" width="345" height="230" as="geometry" />
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-50" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;主机EDR及容器安全管控，负责主机与容器的防病毒，失陷检测，基线检查，弱口令检查，补丁检查等&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;spacingLeft=40;spacing=2;spacingBottom=0;spacingRight=37;flipH=1;flipV=1;spacingTop=90;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-60" width="430" height="286.67" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;流量镜像&lt;/font&gt;&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
           <mxGeometry x="3080" y="-670" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-52" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;全流量威胁检测&lt;/b&gt;&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="3480" y="-1029.25" width="184.6" height="234" as="geometry" />
+          <mxGeometry x="3330" y="-1034" width="184.6" height="234" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-53" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;IDS&lt;/b&gt;&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="3480" y="-709.25" width="184.6" height="234" as="geometry" />
+          <mxGeometry x="3330" y="-710" width="184.6" height="234" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-54" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;数据安全探针&lt;/b&gt;&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="3490" y="-409.25" width="184.6" height="234" as="geometry" />
+          <mxGeometry x="3330" y="-430" width="184.6" height="234" as="geometry" />
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=40;exitX=-0.022;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NnDqqMTRhE_hOVfQ4GXK-51">
           <mxGeometry relative="1" as="geometry">
@@ -152,6 +155,22 @@
             <mxPoint x="3270" y="-110" as="sourcePoint" />
             <mxPoint x="2820" y="68.86000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-62" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;dashed=1;dashPattern=8 8;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1020" y="250" as="sourcePoint" />
+            <mxPoint x="2840" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-63" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;漏洞扫描&lt;/b&gt;&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="637.6999999999998" y="-762.1400000000001" width="184.6" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-64" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;资产管理&lt;/b&gt;&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="619.9999999999998" y="-468.57000000000005" width="184.6" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-65" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;EDR&lt;/b&gt;&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="619.9999999999998" y="-161.87000000000006" width="184.6" height="234" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
