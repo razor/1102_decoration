@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="2113" dy="3817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3298" dy="4464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,9 +42,6 @@
             <mxPoint x="2250" y="-1119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;互联网防火墙&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Azure_Firewall_Manager.svg;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="-840" width="93.33" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;专线防火墙&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Azure_Firewall_Manager.svg;" vertex="1" parent="1">
           <mxGeometry x="1949.4499999999998" y="-830" width="93.33" height="80" as="geometry" />
         </mxCell>
@@ -56,6 +53,48 @@
         </mxCell>
         <mxCell id="NnDqqMTRhE_hOVfQ4GXK-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;WAF集群&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
           <mxGeometry x="2381.8" y="-570" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-23" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="2660" y="-750" width="345" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-27" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1901.76" y="-320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-28" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-635" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-29" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="-630" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-30" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-30" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="-30" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-32" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="-30" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-33" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="-30" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-34" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="2448.9700000000003" y="-20" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-35" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="2718.9700000000003" y="-20" width="131.3" height="170.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="-595" width="123" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1351.3" y="180" width="123" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1961.3" y="180" width="123" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="NnDqqMTRhE_hOVfQ4GXK-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2595.97" y="180" width="123" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
