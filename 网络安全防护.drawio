@@ -380,7 +380,7 @@
         <mxCell id="AKt_6MxF97LY5m4rjNqw-2" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;在线办公&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1860" y="-370" width="82.6" height="104.7" as="geometry" />
         </mxCell>
-        <mxCell id="AKt_6MxF97LY5m4rjNqw-3" value="HR" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1;fontSize=27;" vertex="1" parent="1">
+        <mxCell id="AKt_6MxF97LY5m4rjNqw-3" value="HR系统" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontStyle=1;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="2010" y="-370" width="82.6" height="104.7" as="geometry" />
         </mxCell>
         <mxCell id="AKt_6MxF97LY5m4rjNqw-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;办公区&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;dashed=1;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
