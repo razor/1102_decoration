@@ -311,27 +311,6 @@
         <mxCell id="FELRODEQuNsOOaxOSn1S-10" value="反洗钱系统" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="210" y="1000" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SqAfEAoqjud0rWrXAvz2-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="320" y="1240" as="sourcePoint" />
-            <mxPoint x="400" y="1240" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SqAfEAoqjud0rWrXAvz2-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="320" y="1240" as="sourcePoint" />
-            <mxPoint x="400" y="1240" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SqAfEAoqjud0rWrXAvz2-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="320" y="1240" as="sourcePoint" />
-            <mxPoint x="400" y="1240" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bco3P--RoCJMzgFWxZHw-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;width=40;strokeWidth=1;endSize=16;startSize=6;targetPerimeterSpacing=0;shadow=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="1360" as="sourcePoint" />
