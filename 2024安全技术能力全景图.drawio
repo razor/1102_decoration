@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="5">
   <diagram name="第 1 页" id="ClOAd1XYvCxr8NZ8p0QV">
-    <mxGraphModel dx="2924" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3443" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,13 +125,10 @@
           <mxGeometry x="145" y="1310" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;风险自然人&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="145" y="1396" width="155" height="40" as="geometry" />
+          <mxGeometry x="140" y="1420" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;风险工号&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="145" y="1456" width="155" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ONSPqAqh77pXOB1-c3SY-43" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据分类分级&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="145" y="1516" width="155" height="40" as="geometry" />
+          <mxGeometry x="140" y="1480" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ONSPqAqh77pXOB1-c3SY-44" value="业&lt;div style=&quot;font-size: 17px;&quot;&gt;务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="40" y="1390" width="60" height="190" as="geometry" />
@@ -682,46 +679,10 @@
           <mxGeometry x="145" y="800" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3Luph_ONzPpRi1OMjEfD-3" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;安全防护&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="336" y="690" width="210" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;图形验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="363" y="740" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;短信验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="363" y="900" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;OTP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="363" y="1060" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;业务风控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="363" y="780" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;扫码认证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="363" y="940" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-9" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;密管&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="363" y="1100" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;证书与签名验签&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="363" y="820" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;设备指纹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="363" y="980" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;多因素认证框架&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="363" y="1140" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;安全密码控件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="363" y="860" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-14" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;通用安全防护组件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="363" y="1020" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Luph_ONzPpRi1OMjEfD-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;敏感词识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="363" y="1180" width="150" height="30" as="geometry" />
+          <mxGeometry x="336" y="690" width="210" height="350" as="geometry" />
         </mxCell>
         <mxCell id="3Luph_ONzPpRi1OMjEfD-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;监测预警&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=23;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="560" y="690" width="200" height="540" as="geometry" />
+          <mxGeometry x="560" y="690" width="200" height="350" as="geometry" />
         </mxCell>
         <mxCell id="3Luph_ONzPpRi1OMjEfD-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;网站、APP拨测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="586" y="740" width="150" height="30" as="geometry" />
@@ -737,6 +698,27 @@
         </mxCell>
         <mxCell id="ppEvQYgr1Al_Yc4oYD91-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;2025年新建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="145" y="1020" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EblUFGNp5Rd9qRrE_8kU-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;反洗钱监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="586" y="860" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0kouLgV0CV5WwR8J0Da-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;业务风控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="366" y="740" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0kouLgV0CV5WwR8J0Da-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;设备指纹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="366" y="780" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0kouLgV0CV5WwR8J0Da-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;敏感词识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="366" y="820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0kouLgV0CV5WwR8J0Da-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;反洗钱&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="366" y="860" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0kouLgV0CV5WwR8J0Da-5" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;人行金融反诈平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="366" y="900" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0kouLgV0CV5WwR8J0Da-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;清算协会风险共享&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="366" y="940" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
