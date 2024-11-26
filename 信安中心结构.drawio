@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="第 1 页" id="JOnwjQAw6FctpHRn7n33">
-    <mxGraphModel dx="2924" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,13 +44,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3w2RXyKYQ_ACeo4qv3Gf-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;负责网络信息安全工作&lt;/h1&gt;&lt;p&gt;中心共有自有人员13人，外包2人&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="430" width="250" height="120" as="geometry" />
+          <mxGeometry x="520" y="440" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3w2RXyKYQ_ACeo4qv3Gf-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;负责安全运营工作&lt;/h1&gt;&lt;p&gt;自有人员9人，外包2人。主要负责SOC安全运营，安全合规检测，安全相关基础设施建设等&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="570" width="250" height="120" as="geometry" />
+          <mxGeometry x="130" y="650" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3w2RXyKYQ_ACeo4qv3Gf-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;负责安全系统开发工作&lt;/h1&gt;&lt;p&gt;自有人员4人。主要负责数据加密系统、密钥系统、签名验签系统、安全日志告警系统、业务风控系统、设备指纹系统等系统的研发工作&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="570" width="250" height="120" as="geometry" />
+          <mxGeometry x="440" y="640" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
