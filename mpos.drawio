@@ -87,9 +87,6 @@
         <mxCell id="Jk9a_odwu0gFK5n7Nh8z-20" value="HUB ZMK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jk9a_odwu0gFK5n7Nh8z-22" value="TSM KEK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Jk9a_odwu0gFK5n7Nh8z-23" value="SIM AK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="700" width="120" height="60" as="geometry" />
         </mxCell>
@@ -118,17 +115,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jk9a_odwu0gFK5n7Nh8z-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jk9a_odwu0gFK5n7Nh8z-22" target="Jk9a_odwu0gFK5n7Nh8z-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="600" as="sourcePoint" />
-            <mxPoint x="1180" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Jk9a_odwu0gFK5n7Nh8z-31" value="VERSION,TYPE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jk9a_odwu0gFK5n7Nh8z-30">
-          <mxGeometry x="0.1778" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Jk9a_odwu0gFK5n7Nh8z-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.45;exitY=0.022;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Jk9a_odwu0gFK5n7Nh8z-20" target="Jk9a_odwu0gFK5n7Nh8z-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="550" as="sourcePoint" />
@@ -149,6 +135,9 @@
         </mxCell>
         <mxCell id="Jk9a_odwu0gFK5n7Nh8z-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ZMK 讯联生成&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;WK SM4&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="760" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk9a_odwu0gFK5n7Nh8z-38" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;KEK&lt;/div&gt;&lt;div&gt;SIM AK under KEK&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
